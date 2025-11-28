@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+bin/
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+# Log files
+*.log

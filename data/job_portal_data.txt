@@ -1,0 +1,4 @@
+# Job Portal Data File
+# This file will be automatically created and managed by the application
+# Contains serialized data for users, jobs, companies, messages, etc.
+# DO NOT EDIT MANUALLY
